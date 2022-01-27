@@ -1,0 +1,7 @@
+Steps to try it out:
+- npm i
+- npm run build
+- cd ./dist
+- node
+- .load c32check.js
+Now the c32check command is available to use along with readme examples.
